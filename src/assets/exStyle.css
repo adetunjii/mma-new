@@ -1,0 +1,1280 @@
+* {
+  box-sizing: border-box;
+}
+
+.search{
+  width: 100px;
+  border-radius: 5%  5%;
+  background-color: black;
+  color: white;
+  display: none;
+  outline: none;
+  border: 1px solid black;
+}
+#hire-us-view{
+  display: none;
+}
+.about-body{
+  background-color: #0C0C0C;
+  color: white;
+  width: 100%;
+  height: 30em;
+}
+.fdiv{
+  width: 92%;
+  height: 25em;
+  margin: auto;
+  padding-top: 15px;
+}
+.fdiv h2{
+  color:#FF8000;
+}
+.meet-out-team{
+  top: 1454px;
+  left: 0px;
+  width: 100%;
+  height: 41em;
+  background: #082438 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.image-div-display{
+  display: block;
+  width: 25%;
+  height: 20em;
+  float: left;
+  
+}
+.image-div{
+  padding: 3em; 
+}
+.image-div img{
+  margin: auto;
+  display: block;
+  width: 70%;
+  height: 60%;
+  border:5px solid white;
+  border-radius: 50%;
+}
+.image-div p{
+  text-align: center;
+}
+
+.first-back{
+  background-image: url('/assets/image/79000800.jpg');
+  background-size: cover;
+  width: 100%;
+  height: 41em; 
+  margin: 0;
+  padding: 0;
+}
+.first-back-text{
+  color: white;
+  font-weight: 700;
+  font-size: 2em;
+  margin-left: 2.5em;
+ padding-top: 8em;
+}
+.second-back{
+left: 0px;
+width: 100%;
+height: 41em;
+background: #0C0C0C 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.second-back-img{
+  float: left;
+  background-image: url("./image/4040274.jpg");
+  background-size: cover;
+  margin-left: 5em;
+  margin-top: 2em;
+  width: 40%;
+  height: 35em;
+}
+.second-back-text{
+  color: white;
+  float: left;
+  padding:7px;
+  margin-left: 5em;
+  margin-top: 12em;
+}
+.third-back{
+  top: 2295px;
+left: 0px;
+width: 100%;
+height: 41em;
+background: #082438 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.third-back span{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 10px;
+
+}
+.third-back-img{
+  background-image: url('./image/multiethnic-leaders-greeting-each-other-city_74855-4335.jpg');
+  width: 35%;
+  height: 30em;
+  background-size: cover;
+  margin-right: 6em;
+  margin-top: 0;
+  float: right;
+  right: 10px;
+  padding:7px;
+  border: 10px solid #082438;
+  box-shadow: 0px 8px 12px #00000029;
+
+}
+.third-back-text{
+  color: white;
+  float: left;
+  padding:7px;
+  margin-left: 5em;
+  margin-top: 4em;
+}
+.footer{
+  
+width: 100%;
+height: 13em;
+background: #000000 0% 0% no-repeat padding-box;
+
+}
+.mmALogo{
+  
+  width: 5px;
+  height: 2.5px;
+  background-image: url('./image/i_5.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+} 
+
+.content2{
+  float: left;
+  background-image: url('./image/i_5.png');
+ background-size: cover;
+  width: 10%;
+  height: 100px;
+  margin-left: 15px;
+  margin-right: 15px;
+ 
+}
+.content3{
+float: left;
+width: 10%;
+height: 30px;
+text-align: left;
+font: normal normal medium 18px/16px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.content4{
+  
+float: left;
+width: 10%;
+height: 30px;
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.content5{
+  padding-left:5em ;
+float: left;
+width: 82px;
+height: 22px;
+text-align: left;
+font: normal normal medium 18px/16px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.content6{  
+  
+  margin-left: 5em;
+float: left;
+width: 10%;
+height: 10em;
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+
+}
+.fAbout{
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.register{
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.hire-us{
+float: left;
+margin-left: 0;
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.faq{
+text-align: left;
+font: normal normal medium 18px/26px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+
+.influencer-bg{
+width: 100%;
+height: 36em;
+background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+background-size: cover;
+opacity: 0.9;
+}
+
+.hire-us-bg{
+  width: 100%;
+height: 40em;
+background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+background-size: cover;
+opacity: 0.9;
+}
+.become-an-influencer{
+  padding-top: 3em;
+  padding-left: 2em;
+  top: 100px;
+left: 100px;
+
+text-align: left;
+font: normal normal 600 40px/50px Roboto;
+letter-spacing: 0px;
+color: #FF8000;
+opacity: 1;
+}
+.become-an-influencer-note{
+  
+  margin-left: 4em;
+  left: 276px;
+  width: 40%;
+  height: 10em;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  font-size: 10;
+  opacity: 1;
+  
+}
+  
+  .form-title{
+    padding-top:15px ;
+text-align: center;
+font: normal normal bold 25px/35px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+text-transform: uppercase;
+opacity: 1;
+  }
+.l-content{
+  float: left;
+  width: 55%;
+  height: 36em;
+}
+.r-content{
+  float: left;
+  width: 34%;
+  height: 36em;
+}
+.r-content label{
+  top: 413px;
+left: 1030px;
+width: 135px;
+height: 37px;
+text-align: left;
+font: normal normal normal 20px/27px Roboto;
+letter-spacing: 0px;
+font-weight: 900;
+color: #F1F1F1;
+opacity: 1;
+}
+.name-input{
+  top: 363px;
+left: 1030px;
+width: 21em;
+height: 3em;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BCE0FD;
+opacity: 1;
+}
+.submit-btn{
+  margin-top: 3em;
+  margin-left: 4em;
+  top: 833px;
+left: 1116px;
+width: 14em;
+height: 3em;
+background: #FF8000 0% 0% no-repeat padding-box;
+outline: none;
+opacity: 1;
+border-radius: 50px;
+text-align: center;
+font: normal normal bold 16px/20px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.hire-us-center{
+  width: 80%;
+  height:38em;
+  margin: auto;
+}
+.h1{
+  padding-top: 0.5em;
+  text-align: center;
+font: normal normal 700 40px/50px Roboto;
+letter-spacing: 0px;
+color: #FF8000;
+opacity: 1;
+}
+.hire-us-text{
+  text-align: center;
+font: normal normal normal 20px/31px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 1;
+}
+.l-form{
+  float: left;
+  width: 50%;
+  height: 23em;
+  margin-bottom: 15px;
+}
+.r-form{
+  float: right;
+  width: 50%;
+  height: 23em;
+  margin-bottom: 15px;
+}
+.hire-us-label{
+  text-align: left;
+font: normal normal normal 20px/27px Roboto;
+letter-spacing: 0px;
+color: #F1F1F1;
+opacity: 3;
+}
+.hire-us-input{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #BCE0FD;
+opacity: 1;
+width: 21em;
+height: 3em;
+}
+.submitBtn{
+top: 10em;
+background: #FF8000 0% 0% no-repeat padding-box;
+border-radius: 30px;
+width: 10em;
+display: block;
+height: 2em;
+font: normal normal bold 25px/11px Roboto;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+outline: none;
+}
+@media (max-width:379px) {
+  * {
+    box-sizing: border-box;
+  }
+  nav{
+    text-transform: capitalize;
+  }
+  .about-body{
+    background-color:black;
+    color: white;
+    width: 100%;
+    height: 400px;
+  }
+  #hire-us-view{
+    display: block;
+  }
+  #hire-us-btn{
+    display: none;
+  }
+
+  .fdiv h2{
+    font-size: 12px;
+    color:#FF8000;
+    font-weight: 800;
+    margin-left: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .fdiv p{
+    padding: 10px;
+    margin:2px ;
+    font-size: 10px;
+  }
+  .meet-out-team{
+    width: 478px ;
+    height: 300px;
+    background: #082438 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  .image-div-display{
+    
+    display: block;
+    width: 30%;
+    height: 150px;
+    float: left;
+  }
+  .image-div{
+    padding: 3px; 
+  }
+  .image-div img{
+    margin: auto;
+    display: block;
+    width: 70%;
+    height: 60%;
+    border:5px solid white;
+    border-radius: 50%;
+  }
+  .image-div p{
+    text-align: center;
+  }
+  
+  .first-back{
+    background-image: url('/assets/image/79000800.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 300px; 
+    
+  }
+  .first-back-text{
+    color: white;
+    font-size: 12px;
+    top: 12px;
+    width:150px;
+  }
+  .second-back{
+  width: 100%;
+  height: 300px;
+  background: #0C0C0C 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .second-back-img{
+    width: 150px;
+    height: 200px;
+  float:left;
+  padding: 0;
+  margin-top:60px;
+  margin-left: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('./image/4040274.jpg');
+  }
+  .second-back-text{
+    width: 140px;
+    margin-top:50px;
+    color: white; 
+    float: left;
+    padding:1px;
+    margin-left: 2px;
+    font-size: 10px;
+  }
+  .second-back-text h2{
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 6px;
+  }
+  .second-back-text a input{
+    width:55px;
+    font-size:10px;
+    padding: 0;
+    font-weight: 500;
+    height:30px;
+  }
+  .third-back{
+  width: 100%;
+  height: 410px;
+  background: #082438 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  
+  .third-back-img{
+    background-image: url('./image/multiethnic-leaders-greeting-each-other-city_74855-4335.jpg');
+    width: 150px;
+    height: 220px;
+    background-size: cover;
+    margin-right: 1em;
+    margin-top: 0;
+    float: right;
+    right: 5px;
+    padding:4.5px;
+    border: 5px solid #082438;
+    box-shadow: 0px 8px 12px #00000029;
+  
+  }
+  
+  .third-back-text{
+    color: white;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2px;
+    font-size: 10px;
+    float: left;
+    font-weight: 700;
+
+  }
+  .third-back-container{
+    float: left;
+    width: 150px;
+    margin: 0;
+
+  }
+  .third-back-container h2{
+    font-size: 12px;
+    font-weight: 800;
+    float: left;
+    margin-top: 3px;
+  }
+  .third-back-container input{
+    width:55px;
+    font-size:8px;
+    padding: 0;
+    font-weight: 800;
+    height:30px;
+    margin-left: 30px;
+  }
+  .footer{
+  font-size: 8px;
+  left: 0px;
+  width: 100%;
+  height: 130px;
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .mmALogo{
+  width: 5px;
+  height: 2.5px;
+  background-image: url('./image/i_5.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  } 
+  
+  .content2{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:5px;
+    float: left;
+    width: 30px;
+    text-align: left;
+
+    letter-spacing: 0px;
+    color: #F1F1F1;
+    opacity: 1;
+  }
+  .content3{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 5px;
+  float: left;
+  width: 50px;
+  
+  text-align: left;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .content4{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 5px;  
+  float: left;
+  width: 20px;
+  
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .content5{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-left:12px ;
+  float: left;
+  width: 20px;
+  text-align: left;
+  font-size: 5px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+
+  }
+  .content6{    
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 5px;
+  float: left;
+  width: 60px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .fAbout{
+    font-size: 5px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .register{
+    
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  font-size: 5px;
+  }
+  .hire-us{
+  float: left;
+  margin-left: 0;
+  text-align: left;
+  
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  font-size: 5px;
+  }
+  .faq{
+    margin: 5px;
+    font-size: 5px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  
+  .influencer-bg{
+  width: 100%;
+  height: 600px;
+  background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+  background-size: cover;
+  }
+  .hire-us-bg{
+    width: 378px;
+  height: 1000px;
+  background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+  background-size: cover;
+  }
+  .become-an-influencer{
+    text-align: center;
+    text-align: left;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #FF8000;
+  opacity: 1;
+  }
+  .become-an-influencer-note{
+    
+    margin-left: 4em;
+    left: 276px;
+    width: 40%;
+    height: 10em;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #F1F1F1;
+    font-size: 10;
+    opacity: 1;
+    
+  }
+    
+    .form-title{
+  margin-top: 0; 
+  text-align: center;
+  font-size: 14px;
+  font-weight: 1000;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  text-transform: uppercase;
+  opacity: 3;
+    }
+  .l-content{
+    font-size: 10px;
+    display: block;
+    width: 90%;
+    height: 180px;
+    font-weight: 900;
+    float: none;
+    text-align: center;
+    margin: auto;
+  }
+  .r-content{
+    margin: auto;
+    float: none;
+    display: block;
+    width: 90%;
+    height: 300px;
+  }
+  .r-content label{
+    margin: 1px;
+    font-size: 12px;
+  width: 90%;
+  height: 30px;
+  text-align: left;
+  letter-spacing: 0px;
+  font-weight: 1000;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .name-input{
+   display: block;
+   margin: auto;
+  width: 290px;
+  height: 40px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #BCE0FD;
+  border-radius: 1%;
+  opacity: 1;
+  }
+  .submit-btn{
+    text-align: center;
+    margin-top: 5px;
+   font-size: 10px;
+   font-weight: 900;
+  width: 100px;
+  height: 30px;
+  background: #FF8000 0% 0% no-repeat padding-box;
+  outline: none;
+  border-radius: 50px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  .hire-us-center{
+    width: 80%;
+    height:32em;
+    margin: auto;
+  }
+  .h1{
+    padding-top: 0.5em;
+    text-align: center;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #FF8000;
+  opacity: 1;
+  font-weight: 900;
+  }
+  .hire-us-text{
+    text-align: center;
+    font-size: 10px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .l-form{
+    float: none;
+    width: 50%;
+    height: 23em;
+  }
+  
+  .r-form{
+    float: none;
+    width: 50%;
+    height: 23em;
+  }
+  .r-form textarea{
+    width: 197%;
+  }
+  .hire-us-label{
+    text-align: left;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 3;
+  }
+  .hire-us-input{
+    display: block;
+    margin: auto;
+   width: 290px;
+   height: 40px;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   border: 1px solid #BCE0FD;
+   border-radius: 1%;
+   opacity: 1;
+ 
+  }
+  .submitBtn{
+    background: #FF8000 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  width: 200px;
+  font-size:12px;
+  display: block;
+  height: 30px;
+  color: #FFFFFF;
+  opacity: 1;
+  text-align: center;
+
+  outline: none;
+  }
+}
+
+@media (max-width:768px) {
+  .about-body{
+    background-color: black;
+    color: white;
+    width: 768px;
+    height: 400px;
+  }
+  #hire-us-view{
+    display: block;
+  }
+  #hire-us-btn{
+    display: none;
+  }
+  
+
+  .fdiv h2{
+    font-size: 12px;
+    color:#FF8000;
+    font-weight: 800;
+    margin-left: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  .fdiv p{
+    padding: 10px;
+    margin:2px ;
+    font-size: 10px;
+  }
+  .meet-out-team{
+    width: 378px;
+    height: 300px;
+    background: #082438 0% 0% no-repeat padding-box;
+    opacity: 1;
+  }
+  .image-div-display{
+    
+    display: block;
+    width: 30%;
+    height: 150px;
+    float: left;
+  }
+  .image-div{
+    padding: 3px; 
+  }
+  .image-div img{
+    margin: auto;
+    display: block;
+    width: 70%;
+    height: 60%;
+    border:5px solid white;
+    border-radius: 50%;
+  }
+  .image-div p{
+    text-align: center;
+  }
+  
+  .first-back{
+    background-image: url('/assets/image/79000800.jpg');
+    background-size: cover;
+    width: 100%;
+    height: 300px; 
+    
+  }
+  .first-back-text{
+    color: white;
+    font-size: 12px;
+    top: 12px;
+    width:150px;
+  }
+  .second-back{
+  width: 100%;
+  height: 300px;
+  background: #0C0C0C 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .second-back-img{
+    width: 150px;
+    height: 200px;
+  float:left;
+  padding: 0;
+  margin-top:60px;
+  margin-left: 10px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: url('./image/4040274.jpg');
+  }
+  .second-back-text{
+    width: 140px;
+    margin-top:50px;
+    color: white; 
+    float: left;
+    padding:1px;
+    margin-left: 2px;
+    font-size: 10px;
+  }
+  .second-back-text h2{
+    font-size: 12px;
+    font-weight: 700;
+    margin-left: 6px;
+  }
+  .second-back-text a input{
+    width:55px;
+    font-size:10px;
+    padding: 0;
+    font-weight: 500;
+    height:30px;
+  }
+  .third-back{
+  width: 100%;
+  height: 410px;
+  background: #082438 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  
+  .third-back-img{
+    background-image: url('./image/multiethnic-leaders-greeting-each-other-city_74855-4335.jpg');
+    width: 150px;
+    height: 220px;
+    background-size: cover;
+    margin-right: 1em;
+    margin-top: 0;
+    float: right;
+    right: 5px;
+    padding:4.5px;
+    border: 5px solid #082438;
+    box-shadow: 0px 8px 12px #00000029;
+  
+  }
+  
+  .third-back-text{
+    color: white;
+    float: left;
+    margin-top: 2px;
+    margin-left: 2px;
+    font-size: 10px;
+    float: left;
+    font-weight: 700;
+
+  }
+  .third-back-container{
+    float: left;
+    width: 150px;
+    margin: 0;
+
+  }
+  .third-back-container h2{
+    font-size: 12px;
+    font-weight: 800;
+    float: left;
+    margin-top: 3px;
+  }
+  .third-back-container input{
+    width:55px;
+    font-size:8px;
+    padding: 0;
+    font-weight: 800;
+    height:30px;
+    margin-left: 30px;
+  }
+  .footer{
+  font-size: 8px;
+  left: 0px;
+  width: 100%;
+  height: 130px;
+  background: #000000 0% 0% no-repeat padding-box;
+  opacity: 1;
+  }
+  .mmALogo{
+  width: 5px;
+  height: 2.5px;
+  background-image: url('./image/i_5.png') 0% 0% no-repeat padding-box;
+  opacity: 1;
+  } 
+  
+  .content2{
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size:5px;
+    float: left;
+    width: 30px;
+    text-align: left;
+
+    letter-spacing: 0px;
+    color: #F1F1F1;
+    opacity: 1;
+  }
+  .content3{
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 5px;
+  float: left;
+  width: 50px;
+  
+  text-align: left;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .content4{
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 5px;  
+  float: left;
+  width: 20px;
+  
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .content5{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-left:12px ;
+  float: left;
+  width: 20px;
+  text-align: left;
+  font-size: 5px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+
+  }
+  .content6{    
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 5px;
+  float: left;
+  width: 60px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  
+  }
+  .fAbout{
+    font-size: 5px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .register{
+    
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  font-size: 5px;
+  }
+  .hire-us{
+  float: left;
+  margin-left: 0;
+  text-align: left;
+  
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  font-size: 5px;
+  }
+  .faq{
+    margin: 5px;
+    font-size: 5px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  
+  .influencer-bg{
+  width: 378px;
+  height: 600px;
+  background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+  background-size: cover;
+  }
+  .hire-us-bg{
+    width: 378px;
+  height: 1000px;
+  background: transparent url('./image/900.jpg') 0% 0% no-repeat padding-box;
+  background-size: cover;
+  }
+  .become-an-influencer{
+    text-align: center;
+    text-align: left;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #FF8000;
+  opacity: 1;
+  }
+  .become-an-influencer-note{
+    
+    margin-left: 4em;
+    left: 276px;
+    width: 40%;
+    height: 10em;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #F1F1F1;
+    font-size: 10;
+    opacity: 1;
+    
+  }
+    
+    .form-title{
+  margin-top: 3px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 1000;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  text-transform: uppercase;
+  opacity: 3;
+    }
+  .l-content{
+    font-size: 10px;
+    display: block;
+    width: 90%;
+    height: 180px;
+    font-weight: 900;
+    float: none;
+    text-align: center;
+    margin: auto;
+  }
+  .r-content{
+    margin: auto;
+    float: none;
+    display: block;
+    width: 90%;
+    height: 300px;
+    
+  
+  }
+  .r-content label{
+    margin: 1px;
+    font-size: 12px;
+  width: 90%;
+  height: 30px;
+  text-align: left;
+  letter-spacing: 0px;
+  font-weight: 1000;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .name-input{
+   display: block;
+   margin: auto;
+  width: 290px;
+  height: 40px;
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #BCE0FD;
+  border-radius: 1%;
+  opacity: 1;
+  }
+  .submit-btn{
+    text-align: center;
+    margin-top: 5px;
+   font-size: 10px;
+   font-weight: 900;
+  width: 100px;
+  height: 30px;
+  background: #FF8000 0% 0% no-repeat padding-box;
+  outline: none;
+  border-radius: 50px;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+  }
+  .hire-us-center{
+    width: 80%;
+    height:32em;
+    margin: auto;
+  }
+  .h1{
+    padding-top: 0.5em;
+    text-align: center;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #FF8000;
+  opacity: 1;
+  font-weight: 900;
+  }
+  .hire-us-text{
+    text-align: center;
+    font-size: 10px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 1;
+  }
+  .l-form{
+    float: none;
+    width: 50%;
+    height: 23em;
+  }
+  
+  .r-form{
+    float: none;
+    width: 50%;
+    height: 23em;
+  }
+  .r-form textarea{
+    width: 197%;
+  }
+  .hire-us-label{
+    text-align: left;
+    font-size: 12px;
+  letter-spacing: 0px;
+  color: #F1F1F1;
+  opacity: 3;
+  }
+  .hire-us-input{
+    display: block;
+    margin: auto;
+   width: 290px;
+   height: 40px;
+   background: #FFFFFF 0% 0% no-repeat padding-box;
+   border: 1px solid #BCE0FD;
+   border-radius: 1%;
+   opacity: 1;
+ 
+  }
+  .submitBtn{
+    background: #FF8000 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  width: 200px;
+  font-size:12px;
+  display: block;
+  height: 30px;
+  color: #FFFFFF;
+  opacity: 1;
+  text-align: center;
+
+  outline: none;
+  }
+}
+@media (max-width:940px) {
+  #hire-us-view{
+    display: block;
+  }
+  #hire-us-btn{
+    display: none;
+  }
+}
